@@ -3,7 +3,7 @@ bhojpuri songs :notes: +  ML = &lt;3:smirk: :boom:
 ## About
 
 An GRU based neural network with embedding to generate bhojpuri songs by Manoj Tiwari given a *start_string*
-Playng around with *temperature* yields different results.
+Playng around with *temperature* and *output characters* size yields different results.
 
 ## Sample 
 
