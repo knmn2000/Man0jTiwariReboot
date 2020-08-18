@@ -51,3 +51,9 @@ Tuning the **temperature** and **output characters size** yields different resul
 *Raja Betauya Aa elpa pe Pauya Bole*
 
 *Baitha Na Sonwa Ke Kha*
+```
+
+## Usage
+``` 
+git clone 
+```
