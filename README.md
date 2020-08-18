@@ -55,5 +55,6 @@ Tuning the **temperature** and **output characters size** yields different resul
 
 ## Usage
 ``` 
-git clone 
+git clone https://github.com/knmn2000/Man0jTiwariReboot.git
+python man0jTiwariReboot2.py
 ```
