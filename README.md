@@ -1,19 +1,19 @@
 # Man0jTiwariReboot :arrows_counterclockwise:
 bhojpuri songs :notes: +  ML = &lt;3:smirk: :boom:
-## About
+# About
 
-An GRU based neural network with embedding to generate bhojpuri songs by Manoj Tiwari given a *start_string*
-Playng around with *temperature* and *output characters* size yields different results.
+An GRU based neural network with embedding to generate **Bhojpuri songs** by [Manoj Tiwari](https://www.google.com/search?gs_ssp=eJzj4tLP1Tcwz86ySEkzYPTiyU3My89SKMksTyzKBABolghq&q=manoj+tiwari&rlz=1C1RUCY_enIN701IN701&oq=manoj++tiwa&aqs=chrome.1.69i57j46j0j46j0l3.5792j0j7&sourceid=chrome&ie=UTF-8) given a *start_string*.
+Tuning the **temperature** and **output characters size** yields different results.
 
 ## Sample 
 
-#### Test1
+## Examples
 
 **String**:     *Jawani*
 **Temperature**: *0.5*
 
-**Res:**
-
+**Result:**
+ ```  
 *Jawani Humar Balam Khatir Barela*
 
 *Adhai Baje Dehiya Khoje Tor Ladai*
@@ -27,6 +27,7 @@ Playng around with *temperature* and *output characters* size yields different r
 *Adhai Baje Dehiya Khoje Tor Ladai*
 
 *Adha*
+```
 
 ---
 
@@ -37,6 +38,10 @@ Playng around with *temperature* and *output characters* size yields different r
 
 **Res:**
 
+
+
+---
+```  
 *Jawani Ho*
 
 *Pan Kahi Ke Hab run Daar*
@@ -54,40 +59,4 @@ Playng around with *temperature* and *output characters* size yields different r
 *Raja Betauya Aa elpa pe Pauya Bole*
 
 *Baitha Na Sonwa Ke Kha*
-
 ---
-
-### Test3
-
-**String:** *Rani*
-**Temperature:** *0.4*
-
-**Res:**
-
-*Rani Adhai Baje Dehiya Khoje Tor Ladai*
-
-*Adhai Baje Dehiya Khoje Tor Ladai*
-
-*Adhai Baje*
-
-*Sabka ka dar se hue hai ferrariÂ* 
-
-*Aab chapra lawatka na jaayengeÂ* 
-
-*Theek hai!*
-
-
-
-*Sabka ka dar se hue hai ferrariÂ* 
-
-*Aab chapra lawatka na jaayengeÂ*
-
-*Theek hai!*
-
-
-
-*Sabka ka dar se hue hai ferrariÂ* 
-
-*Aab chapra lawatka na jaayeng*
-
-
