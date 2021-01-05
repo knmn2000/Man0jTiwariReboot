@@ -1,4 +1,8 @@
 # Man0jTiwariReboot :arrows_counterclockwise:
+
+[![GitHub stars](https://img.shields.io/github/stars/knmn2000/Man0jTiwariReboot)](https://github.com/knmn2000/Man0jTiwariReboot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Agrover112/Unix)](https://github.com/Agrover112/Unix/network)
+
 bhojpuri songs :notes: +  ML = &lt;3:smirk: :boom:
 # About
 
